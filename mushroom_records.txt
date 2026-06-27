@@ -1,27 +1,3 @@
-[2026-06-28 03:23:53] | A06_SydneyUL_Y02_X06 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:24:04] | A06_SydneyUL_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:24:21] | A06_SydneyUL_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:24:49] | A06_SydneyUL_Y02_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:25:18] | A06_SydneyUL_Y02_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:26:18] | A06_SydneyUL_Y03_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:26:25] | A06_SydneyUL_Y03_X08 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:26:36] | A06_SydneyUL_Y03_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:27:26] | A06_SydneyUL_Y04_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:27:54] | A06_SydneyUL_Y04_X04 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:28:06] | A06_SydneyUL_Y04_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:34:49] | A07_SydneyDR_Y01_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:35:01] | A07_SydneyDR_Y01_X12 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:35:31] | A07_SydneyDR_Y01_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:36:05] | A07_SydneyDR_Y01_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:37:07] | A07_SydneyDR_Y02_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:37:24] | A07_SydneyDR_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:37:46] | A07_SydneyDR_Y02_X10 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:38:20] | A07_SydneyDR_Y02_X14 | crystal_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:39:11] | A07_SydneyDR_Y03_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:40:21] | A07_SydneyDR_Y03_X05 | fire_mushroom | 大紅色蘑菇 | -27.3581680, 153.0513800 | 戰力:5708
-[2026-06-28 03:40:47] | A07_SydneyDR_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:43:51] | A07_SydneyDR_Y05_X07 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 03:46:11] | A08_SydneyDL_Y00_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 03:46:50] | A08_SydneyDL_Y00_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 03:48:12] | A08_SydneyDL_Y01_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 03:50:28] | A08_SydneyDL_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +174,27 @@
 [2026-06-28 06:34:23] | A36_NewPlymouth_Y02_X06 | electric_mushroom | 大電蘑菇 | -39.0722420, 174.0663870 | 戰力:無數字
 [2026-06-28 06:34:48] | A36_NewPlymouth_Y02_X09 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 06:36:11] | A36_NewPlymouth_Y03_X04 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:40:48] | A37_Christchurch_Y01_X18 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:41:53] | A37_Christchurch_Y01_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:43:15] | A37_Christchurch_Y02_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:44:00] | A37_Christchurch_Y02_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:44:18] | A37_Christchurch_Y02_X13 | electric_mushroom | 大黃色蘑菇 | -43.5044600, 172.6464390 | 戰力:7413
+[2026-06-28 06:45:05] | A37_Christchurch_Y03_X19 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:45:56] | A37_Christchurch_Y03_X11 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:47:25] | A37_Christchurch_Y04_X02 | fire_mushroom | 大火蘑菇 | -43.5044600, 172.6464390 | 戰力:35171
+[2026-06-28 06:48:42] | A37_Christchurch_Y04_X12 | electric_mushroom | 小黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:49:43] | A37_Christchurch_Y04_X19 | poison_mushroom | 大紫色蘑菇 | -43.5250750, 172.6782500 | 戰力:無數字
+[2026-06-28 06:50:22] | A37_Christchurch_Y05_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:50:58] | A37_Christchurch_Y05_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:51:32] | A37_Christchurch_Y05_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:51:44] | A37_Christchurch_Y05_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:52:11] | A37_Christchurch_Y05_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:52:34] | A37_Christchurch_Y06_X01 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:52:40] | A37_Christchurch_Y06_X01 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:52:52] | A37_Christchurch_Y06_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:53:12] | A37_Christchurch_Y06_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:54:08] | A37_Christchurch_Y06_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:55:47] | A37_Christchurch_Y07_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:56:10] | A37_Christchurch_Y07_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:56:27] | A37_Christchurch_Y07_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 06:56:42] | A37_Christchurch_Y07_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
