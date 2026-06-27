@@ -193,3 +193,6 @@
 [2026-06-27 13:39:15] | B01_Auckland_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 13:39:22] | B01_Auckland_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 13:39:39] | B01_Auckland_Y04_X05 | water_mushroom | 大水蘑菇 | print(f"⚠️ 警告：目標座標 ({adb_x}, {adb_y}) 落在禁點區！")
+[2026-06-27 13:58:03] | B02_Wellington_Y00_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:58:31] | B02_Wellington_Y00_X08 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:58:53] | B02_Wellington_Y00_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
