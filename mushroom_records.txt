@@ -15,3 +15,5 @@
 [2026-06-27 19:43:58] | P03_Peru_Piura_Y04_X06 | water_mushroom | 大水晶蘑菇 | -5.1897530, -80.6446210
 [2026-06-27 19:44:28] | P03_Peru_Piura_Y04_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 19:44:51] | P03_Peru_Piura_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:48:21] | P04_Peru_Sechura_Y01_X03 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:48:32] | P04_Peru_Sechura_Y01_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
