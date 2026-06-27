@@ -2,3 +2,6 @@
 [2026-06-27 16:40:33] | A12_PerthUR_Y03_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 16:41:12] | A12_PerthUR_Y03_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 16:44:56] | A12_PerthUR_Y04_X17 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:19:21] | P00_Peru_Iquitos_Y00_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:22:30] | P00_Peru_Iquitos_Y04_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:23:30] | P00_Peru_Iquitos_Y05_X01 | electric_mushroom | 大白色蘑菇 | -3.7590970, -73.2706630
