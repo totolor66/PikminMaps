@@ -179,3 +179,5 @@
 [2026-06-27 23:33:42] | P35_Ecuador_Cuenca_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:33:53] | P35_Ecuador_Cuenca_Y03_X03 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:39:37] | P36_Ecuador_Machala_Y02_X00 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:44:39] | P37_Ecuador_Huaquilas_Y02_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:45:18] | P37_Ecuador_Huaquilas_Y02_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
