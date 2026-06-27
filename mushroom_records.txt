@@ -17,3 +17,12 @@
 [2026-06-27 19:44:51] | P03_Peru_Piura_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 19:48:21] | P04_Peru_Sechura_Y01_X03 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 19:48:32] | P04_Peru_Sechura_Y01_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:55:37] | P05_Peru_Trujillo_Y02_X17 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:56:16] | P05_Peru_Trujillo_Y03_X12 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:59:24] | P05_Peru_Trujillo_Y05_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:59:41] | P05_Peru_Trujillo_Y05_X13 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:00:14] | P05_Peru_Trujillo_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:01:48] | P05_Peru_Trujillo_Y06_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:02:22] | P05_Peru_Trujillo_Y06_X11 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760
+[2026-06-27 20:03:36] | P05_Peru_Trujillo_Y07_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:07:03] | P05_Peru_Trujillo_Y09_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
