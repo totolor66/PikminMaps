@@ -172,3 +172,24 @@
 [2026-06-27 12:39:09] | A05_SydneyUC_Y04_X10 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 12:40:02] | A05_SydneyUC_Y04_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 12:41:07] | A05_SydneyUC_Y05_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:29:29] | B01_Auckland_Y00_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:29:35] | B01_Auckland_Y00_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:31:28] | B01_Auckland_Y01_X17 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:32:07] | B01_Auckland_Y01_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:32:13] | B01_Auckland_Y01_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:32:42] | B01_Auckland_Y01_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:32:48] | B01_Auckland_Y01_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:33:15] | B01_Auckland_Y01_X06 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:33:33] | B01_Auckland_Y01_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:33:50] | B01_Auckland_Y01_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:34:07] | B01_Auckland_Y01_X00 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:34:59] | B01_Auckland_Y02_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:35:12] | B01_Auckland_Y02_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:35:42] | B01_Auckland_Y02_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:37:32] | B01_Auckland_Y03_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:38:08] | B01_Auckland_Y03_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:38:52] | B01_Auckland_Y04_X02 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:39:04] | B01_Auckland_Y04_X03 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:39:15] | B01_Auckland_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:39:22] | B01_Auckland_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 13:39:39] | B01_Auckland_Y04_X05 | water_mushroom | 大水蘑菇 | print(f"⚠️ 警告：目標座標 ({adb_x}, {adb_y}) 落在禁點區！")
