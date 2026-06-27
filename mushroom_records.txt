@@ -1,3 +1,27 @@
+[2026-06-27 03:02:12] | A01_BrisbaneC_Y00_X05 | electric_mushroom | 大黃色蘑菇 | -27.3838060, 153.0320620 | 0 空位
+[2026-06-27 08:12:26] | T001_DubaiU_Y01_X14 | electric_mushroom | 巨大神秘蘑菇 | 25.4204880, 55.5187210 | 0 空位
+[2026-06-27 08:12:45] | T001_DubaiU_Y01_X13 | electric_mushroom | 巨大神秘蘑菇 | 25.4236780, 55.5134010 | 0 空位
+[2026-06-27 08:13:48] | T001_DubaiU_Y01_X04 | electric_mushroom | 巨大神秘蘑菇 | 25.4284130, 55.4609750 | 0 空位
+[2026-06-27 08:19:34] | T001_DubaiU_Y01_X14 | electric_mushroom | 巨大神秘蘑菇 | 25.4204880, 55.5187210 | 0 空位
+[2026-06-27 08:19:54] | T001_DubaiU_Y01_X13 | electric_mushroom | 巨大神秘蘑菇 | 25.4236780, 55.5134010 | 0 空位
+[2026-06-27 08:21:05] | T001_DubaiU_Y01_X03 | electric_mushroom | 巨大神秘蘑菇 | 25.4284130, 55.4609750 | 0 空位
+[2026-06-27 08:22:27] | T001_DubaiU_Y02_X08 | electric_mushroom | 巨大神秘蘑菇 | 25.4168500, 55.4885670 | 0 空位
+[2026-06-27 08:22:58] | T001_DubaiU_Y02_X11 | electric_mushroom | 般神秘蘑菇 | 一般菇 誤抓跳過
+[2026-06-27 08:23:43] | T001_DubaiU_Y03_X13 | electric_mushroom | 般神秘蘑菇 | 一般菇 誤抓跳過
+[2026-06-27 08:23:55] | T001_DubaiU_Y03_X12 | electric_mushroom | 般神秘蘑菇 | 一般菇 誤抓跳過
+[2026-06-27 08:24:34] | T001_DubaiU_Y03_X06 | electric_mushroom | 般神秘蘑菇 | 一般菇 誤抓跳過
+[2026-06-27 08:24:59] | T001_DubaiU_Y03_X03 | electric_mushroom | 巨大神秘蘑菇 | 25.4041180, 55.4592150 | 0 空位
+[2026-06-27 08:25:19] | T001_DubaiU_Y03_X02 | electric_mushroom | 巨大神秘蘑菇 | 25.4004830, 55.4535240 | 0 空位
+[2026-06-27 08:25:38] | T001_DubaiU_Y03_X01 | water_mushroom | 大水蘑菇 | 25.4044050, 55.4512960 | 5 空位
+[2026-06-27 08:26:28] | T001_DubaiU_Y04_X04 | electric_mushroom | 巨大神秘蘑菇 | 25.3895080, 55.4654150 | 0 空位
+[2026-06-27 08:28:09] | T001_DubaiU_Y05_X11 | electric_mushroom | 巨大神秘蘑菇 | 25.3828960, 55.5071570 | 0 空位
+[2026-06-27 08:29:02] | T001_DubaiU_Y05_X04 | electric_mushroom | 巨大神秘蘑菇 | 25.3834640, 55.4663350 | 0 空位
+[2026-06-27 08:29:32] | T001_DubaiU_Y05_X01 | electric_mushroom | 般神秘蘑菇 | 一般菇 誤抓跳過
+[2026-06-27 08:32:13] | T001_DubaiU_Y01_X14 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 08:33:28] | T001_DubaiU_Y01_X03 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 08:34:48] | T001_DubaiU_Y02_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 08:35:48] | T001_DubaiU_Y03_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 08:36:00] | T001_DubaiU_Y03_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 08:36:39] | T001_DubaiU_Y03_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 08:36:56] | T001_DubaiU_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 08:37:07] | T001_DubaiU_Y03_X03 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
@@ -18,3 +42,26 @@
 [2026-06-27 10:12:49] | T001_DubaiU_Y05_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 10:13:17] | T001_DubaiU_Y05_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 10:17:14] | ZZZZZ_Y00_X00 | water_mushroom | 大水蘑菇 | 25.4044050, 55.4512960 | 0 空位
+[2026-06-27 10:59:28] | A01_BrisbaneC_Y00_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:00:02] | A01_BrisbaneC_Y00_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:00:20] | A01_BrisbaneC_Y00_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:00:48] | A01_BrisbaneC_Y00_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:01:12] | A01_BrisbaneC_Y00_X14 | fire_mushroom | 大火蘑菇 | -27.3839290, 153.0890250 | 5 空位
+[2026-06-27 11:02:33] | A01_BrisbaneC_Y01_X13 | electric_mushroom | 大黃色蘑菇 | -27.3910150, 153.0818910 | 5 空位
+[2026-06-27 11:02:58] | A01_BrisbaneC_Y01_X11 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:03:32] | A01_BrisbaneC_Y01_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:03:55] | A01_BrisbaneC_Y01_X03 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:04:13] | A01_BrisbaneC_Y01_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:04:47] | A01_BrisbaneC_Y02_X03 | electric_mushroom | 小紅色蘑菇 | -27.4078030, 153.0250810 | 5 空位
+[2026-06-27 11:05:18] | A01_BrisbaneC_Y02_X06 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:05:30] | A01_BrisbaneC_Y02_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:07:17] | A01_BrisbaneC_Y03_X14 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:07:51] | A01_BrisbaneC_Y03_X09 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:08:25] | A01_BrisbaneC_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:08:44] | A01_BrisbaneC_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:08:55] | A01_BrisbaneC_Y03_X01 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:10:27] | A01_BrisbaneC_Y04_X13 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:10:50] | A01_BrisbaneC_Y04_X16 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:12:17] | A01_BrisbaneC_Y05_X09 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:12:54] | A01_BrisbaneC_Y05_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 11:13:11] | A01_BrisbaneC_Y05_X02 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
