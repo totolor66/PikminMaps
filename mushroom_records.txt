@@ -97,3 +97,14 @@
 [2026-06-27 22:04:52] | P18_Peru_ArequipaD_Y04_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 22:05:41] | P18_Peru_ArequipaD_Y05_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 22:05:52] | P18_Peru_ArequipaD_Y05_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:11:08] | P19_Peru_TacnaU_Y01_X07 | poison_mushroom | 般毒蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:11:19] | P19_Peru_TacnaU_Y01_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:12:36] | P19_Peru_TacnaU_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:13:04] | P19_Peru_TacnaU_Y03_X05 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:13:15] | P19_Peru_TacnaU_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:13:26] | P19_Peru_TacnaU_Y03_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:13:49] | P19_Peru_TacnaU_Y03_X00 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:14:17] | P19_Peru_TacnaU_Y04_X03 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:14:28] | P19_Peru_TacnaU_Y04_X04 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:15:40] | P19_Peru_TacnaU_Y06_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:16:02] | P19_Peru_TacnaU_Y06_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
