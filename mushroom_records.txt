@@ -1,17 +1,3 @@
-[2026-06-28 02:11:02] | A01_BrisbaneC_Y00_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:11:25] | A01_BrisbaneC_Y00_X11 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:13:09] | A01_BrisbaneC_Y01_X10 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:13:47] | A01_BrisbaneC_Y01_X04 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:14:37] | A01_BrisbaneC_Y02_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:15:00] | A01_BrisbaneC_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:15:06] | A01_BrisbaneC_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:15:18] | A01_BrisbaneC_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:15:29] | A01_BrisbaneC_Y02_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:16:29] | A01_BrisbaneC_Y02_X18 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:17:59] | A01_BrisbaneC_Y03_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:18:32] | A01_BrisbaneC_Y03_X02 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:19:57] | A01_BrisbaneC_Y04_X10 | crystal_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 02:20:25] | A01_BrisbaneC_Y04_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 02:21:15] | A01_BrisbaneC_Y05_X18 | water_mushroom | 大水蘑菇 | -27.4391990, 153.1086910 | 戰力:無數字
 [2026-06-28 02:21:46] | A01_BrisbaneC_Y05_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 02:22:24] | A01_BrisbaneC_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +184,17 @@
 [2026-06-28 05:10:15] | A13_PerthUL_Y04_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 05:11:34] | A13_PerthUL_Y05_X17 | water_mushroom | 大水晶蘑菇 | -31.9127850, 115.8488090 | 戰力:無數字
 [2026-06-28 05:13:04] | A13_PerthUL_Y05_X02 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:14:46] | A14_PerthDR_Y00_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:14:58] | A14_PerthDR_Y00_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:16:59] | A14_PerthDR_Y01_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:17:21] | A14_PerthDR_Y01_X08 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:18:10] | A14_PerthDR_Y01_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:19:41] | A14_PerthDR_Y02_X13 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:21:15] | A14_PerthDR_Y03_X07 | fire_mushroom | 大火蘑菇 | -32.0346090, 115.9142970 | 戰力:4611
+[2026-06-28 05:21:41] | A14_PerthDR_Y03_X05 | fire_mushroom | 大火蘑菇 | -32.0369220, 115.9008680 | 戰力:無數字
+[2026-06-28 05:22:06] | A14_PerthDR_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:24:12] | A14_PerthDR_Y05_X16 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:24:57] | A14_PerthDR_Y05_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:25:19] | A14_PerthDR_Y05_X06 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:25:25] | A14_PerthDR_Y05_X06 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:25:59] | A14_PerthDR_Y05_X02 | electric_mushroom | 大白色蘑菇 | -32.0537280, 115.8841960 | 戰力:無數字
