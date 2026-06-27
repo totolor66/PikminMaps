@@ -1,3 +1,34 @@
+[2026-06-27 16:39:38] | A12_PerthUR_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 16:40:33] | A12_PerthUR_Y03_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 16:41:12] | A12_PerthUR_Y03_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 16:44:56] | A12_PerthUR_Y04_X17 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:19:21] | P00_Peru_Iquitos_Y00_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:22:30] | P00_Peru_Iquitos_Y04_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:23:30] | P00_Peru_Iquitos_Y05_X01 | electric_mushroom | 大白色蘑菇 | -3.7590970, -73.2706630
+[2026-06-27 19:32:38] | P02_Peru_Tarapoto_Y01_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:33:06] | P02_Peru_Tarapoto_Y01_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:34:18] | P02_Peru_Tarapoto_Y02_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:34:35] | P02_Peru_Tarapoto_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:39:06] | P03_Peru_Piura_Y01_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:39:56] | P03_Peru_Piura_Y01_X01 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:43:08] | P03_Peru_Piura_Y03_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:43:58] | P03_Peru_Piura_Y04_X06 | water_mushroom | 大水晶蘑菇 | -5.1897530, -80.6446210
+[2026-06-27 19:44:28] | P03_Peru_Piura_Y04_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:44:51] | P03_Peru_Piura_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:48:21] | P04_Peru_Sechura_Y01_X03 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:48:32] | P04_Peru_Sechura_Y01_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:55:37] | P05_Peru_Trujillo_Y02_X17 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:56:16] | P05_Peru_Trujillo_Y03_X12 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:59:24] | P05_Peru_Trujillo_Y05_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:59:41] | P05_Peru_Trujillo_Y05_X13 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:00:14] | P05_Peru_Trujillo_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:01:48] | P05_Peru_Trujillo_Y06_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:02:22] | P05_Peru_Trujillo_Y06_X11 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760
+[2026-06-27 20:03:36] | P05_Peru_Trujillo_Y07_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:07:03] | P05_Peru_Trujillo_Y09_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:09:25] | P06_Peru_Chiclayo_Y00_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:10:04] | P06_Peru_Chiclayo_Y00_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:10:59] | P06_Peru_Chiclayo_Y01_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:11:43] | P06_Peru_Chiclayo_Y01_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:12:37] | P06_Peru_Chiclayo_Y02_X04 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:12:49] | P06_Peru_Chiclayo_Y02_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -126,71 +157,7 @@
 [2026-06-27 23:03:04] | P32_Ecuador_Quito2_Y04_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:05:32] | P32_Ecuador_Quito2_Y05_X03 | electric_mushroom | 大電蘑菇 | -0.2776110, -78.5255700
 [2026-06-27 23:07:31] | P33_Ecuador_Ambato_Y00_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-27 23:09:14] | P33_Ecuador_Ambato_Y01_X08 | electric_mushroom | 大電蘑菇 | [系統] 開始載入遊戲畫面: U03.png
-
-
-
-========================================
-
-🍄 掃描目標: electric_mushroom
-
-========================================
-
-  -- 區塊 5: ❌ 面積填充率過低 (0.53)，判定為碎屑。
-
-  -- 區塊 23: ❌ 面積填充率過低 (0.49)，判定為碎屑。
-
-
-
-========================================
-
-🍄 掃描目標: crystal_mushroom
-
-========================================
-
-
-
-========================================
-
-🍄 掃描目標: water_mushroom
-
-========================================
-
-  -- 區塊 8: 寬=60, 高=57, 填充率=0.61 ✅ 驗證通過！
-
-
-
-========================================
-
-🍄 掃描目標: fire_mushroom
-
-========================================
-
-  -- 區塊 2: 寬=104, 高=61, 填充率=0.63 ✅ 驗證通過！
-
-
-
-========================================
-
-🍄 掃描目標: poison_mushroom
-
-========================================
-
-  -- 區塊 22: 寬=68, 高=40, 填充率=0.70 ✅ 驗證通過！
-
-
-
-========================================
-
-⚖️ 開始進行去重疊分析 (共 0 個候選)
-
-========================================
-
-
-
-🏁 掃描結束！過濾重疊後，畫面上共確認 0 個目標。
-
-⏱️ 總耗時: 0.0564 秒
+[2026-06-27 23:09:14] | P33_Ecuador_Ambato_Y01_X08 | electric_mushroom | 大電蘑菇 | 
 [2026-06-27 23:11:37] | P33_Ecuador_Ambato_Y03_X15 | poison_mushroom | 般毒蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:12:48] | P33_Ecuador_Ambato_Y03_X03 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:21:52] | P34_Ecuador_Riobamba_Y03_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +165,16 @@
 [2026-06-27 23:22:58] | P34_Ecuador_Riobamba_Y03_X00 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:23:54] | P34_Ecuador_Riobamba_Y04_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:25:22] | P34_Ecuador_Riobamba_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:28:55] | P35_Ecuador_Cuenca_Y01_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:29:06] | P35_Ecuador_Cuenca_Y01_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:29:12] | P35_Ecuador_Cuenca_Y01_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:29:35] | P35_Ecuador_Cuenca_Y01_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:30:02] | P35_Ecuador_Cuenca_Y01_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:30:52] | P35_Ecuador_Cuenca_Y02_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:31:14] | P35_Ecuador_Cuenca_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:31:47] | P35_Ecuador_Cuenca_Y02_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:32:15] | P35_Ecuador_Cuenca_Y02_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:32:54] | P35_Ecuador_Cuenca_Y03_X10 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:33:21] | P35_Ecuador_Cuenca_Y03_X06 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:33:42] | P35_Ecuador_Cuenca_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:33:53] | P35_Ecuador_Cuenca_Y03_X03 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
