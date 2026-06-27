@@ -9,3 +9,9 @@
 [2026-06-27 19:33:06] | P02_Peru_Tarapoto_Y01_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 19:34:18] | P02_Peru_Tarapoto_Y02_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 19:34:35] | P02_Peru_Tarapoto_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:39:06] | P03_Peru_Piura_Y01_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:39:56] | P03_Peru_Piura_Y01_X01 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:43:08] | P03_Peru_Piura_Y03_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:43:58] | P03_Peru_Piura_Y04_X06 | water_mushroom | 大水晶蘑菇 | -5.1897530, -80.6446210
+[2026-06-27 19:44:28] | P03_Peru_Piura_Y04_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 19:44:51] | P03_Peru_Piura_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
