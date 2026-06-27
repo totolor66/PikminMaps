@@ -26,3 +26,11 @@
 [2026-06-27 20:02:22] | P05_Peru_Trujillo_Y06_X11 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760
 [2026-06-27 20:03:36] | P05_Peru_Trujillo_Y07_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:07:03] | P05_Peru_Trujillo_Y09_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:09:25] | P06_Peru_Chiclayo_Y00_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:10:04] | P06_Peru_Chiclayo_Y00_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:10:59] | P06_Peru_Chiclayo_Y01_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:11:43] | P06_Peru_Chiclayo_Y01_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:12:37] | P06_Peru_Chiclayo_Y02_X04 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:12:49] | P06_Peru_Chiclayo_Y02_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:13:22] | P06_Peru_Chiclayo_Y02_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:14:00] | P06_Peru_Chiclayo_Y03_X11 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
