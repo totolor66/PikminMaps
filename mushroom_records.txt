@@ -40,3 +40,6 @@
 [2026-06-27 20:26:46] | P08_Peru_NewChimbote_Y01_X02 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:33:45] | P09_Peru_Cajamarca_Y02_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:34:07] | P09_Peru_Cajamarca_Y02_X05 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:40:25] | P10_Peru_Ayacucho_Y03_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:42:03] | P10_Peru_Ayacucho_Y05_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:42:31] | P10_Peru_Ayacucho_Y05_X02 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
