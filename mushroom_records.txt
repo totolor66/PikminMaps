@@ -90,3 +90,10 @@
 [2026-06-27 21:51:30] | P17_Peru_ArequipaU_Y02_X07 | poison_mushroom | 大毒蘑菇 | -16.3149410, -71.6209060
 [2026-06-27 21:52:48] | P17_Peru_ArequipaU_Y03_X15 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:53:10] | P17_Peru_ArequipaU_Y03_X12 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:00:30] | P18_Peru_ArequipaD_Y01_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:00:41] | P18_Peru_ArequipaD_Y01_X06 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:01:03] | P18_Peru_ArequipaD_Y01_X03 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:02:21] | P18_Peru_ArequipaD_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:04:52] | P18_Peru_ArequipaD_Y04_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:05:41] | P18_Peru_ArequipaD_Y05_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 22:05:52] | P18_Peru_ArequipaD_Y05_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
