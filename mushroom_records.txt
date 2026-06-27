@@ -1,11 +1,3 @@
-[2026-06-28 01:51:29] | ZZZZZ_Y00_X00 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760 | 戰力:8822150
-[2026-06-28 01:57:07] | ZZZZZ_Y00_X00 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760 | 戰力:辨識失敗
-[2026-06-28 01:59:14] | ZZZZZ_Y00_X00 | electric_mushroom | 大電蘑菇 | -8.1168490, -79.0249760 | 戰力:22150
-[2026-06-28 02:00:53] | ZZZZZ_Y00_X00 | electric_mushroom | 大白色蘑菇 | -3.7590970, -73.2706630 | 戰力:354
-[2026-06-28 02:03:29] | ZZZZZ_Y00_X00 | poison_mushroom | 大毒蘑菇 | -17.1881190, -70.9281910 | 戰力:2245
-[2026-06-28 02:06:43] | ZZZZZ_Y00_X00 | electric_mushroom | 大電蘑菇 | -0.2776110, -78.5255700 | 戰力:16874
-[2026-06-28 02:07:45] | ZZZZZ_Y00_X00 | water_mushroom | 大水晶蘑菇 | -2.0275650, -79.9215010 | 戰力:25673
-[2026-06-28 02:10:51] | A01_BrisbaneC_Y00_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 02:11:02] | A01_BrisbaneC_Y00_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 02:11:25] | A01_BrisbaneC_Y00_X11 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 02:13:09] | A01_BrisbaneC_Y01_X10 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +190,11 @@
 [2026-06-28 04:57:34] | A12_PerthUR_Y04_X01 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 05:00:04] | A12_PerthUR_Y05_X10 | fire_mushroom | 大紅色蘑菇 | -31.9289000, 115.9423360 | 戰力:6344
 [2026-06-28 05:01:12] | A12_PerthUR_Y05_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:02:58] | A13_PerthUL_Y00_X07 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:03:37] | A13_PerthUL_Y00_X13 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:03:53] | A13_PerthUL_Y00_X15 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:05:15] | A13_PerthUL_Y01_X08 | poison_mushroom | 大毒蘑菇 | -31.8596330, 115.7952330 | 戰力:21519
+[2026-06-28 05:07:14] | A13_PerthUL_Y02_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:10:15] | A13_PerthUL_Y04_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 05:11:34] | A13_PerthUL_Y05_X17 | water_mushroom | 大水晶蘑菇 | -31.9127850, 115.8488090 | 戰力:無數字
+[2026-06-28 05:13:04] | A13_PerthUL_Y05_X02 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
