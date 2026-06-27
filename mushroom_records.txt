@@ -75,3 +75,7 @@
 [2026-06-27 21:24:34] | P14_Peru_LimaC_Y04_X15 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:26:07] | P14_Peru_LimaC_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:26:35] | P14_Peru_LimaC_Y05_X05 | poison_mushroom | 大毒蘑菇 | -12.0775750, -77.0987760
+[2026-06-27 21:30:42] | P15_Peru_LimaD_Y02_X07 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:32:21] | P15_Peru_LimaD_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:34:37] | P15_Peru_LimaD_Y06_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:35:00] | P15_Peru_LimaD_Y07_X09 | electric_mushroom | 大電蘑菇 | -12.1828820, -76.9915620
