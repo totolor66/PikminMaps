@@ -46,3 +46,7 @@
 [2026-06-27 20:49:13] | P11_Peru_Pucallpa_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:49:52] | P11_Peru_Pucallpa_Y04_X10 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:50:39] | P11_Peru_Pucallpa_Y05_X10 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:56:10] | P12_Peru_Cusco_Y01_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:56:32] | P12_Peru_Cusco_Y01_X04 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 20:58:41] | P12_Peru_Cusco_Y03_X14 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:01:27] | P12_Peru_Cusco_Y04_X14 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
