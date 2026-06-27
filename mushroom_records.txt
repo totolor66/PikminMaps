@@ -181,3 +181,9 @@
 [2026-06-27 23:39:37] | P36_Ecuador_Machala_Y02_X00 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:44:39] | P37_Ecuador_Huaquilas_Y02_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 23:45:18] | P37_Ecuador_Huaquilas_Y02_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:52:29] | P38_Ecuador_Loja_Y03_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:52:41] | P38_Ecuador_Loja_Y03_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:54:19] | P38_Ecuador_Loja_Y04_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:54:42] | P38_Ecuador_Loja_Y05_X07 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:54:53] | P38_Ecuador_Loja_Y05_X06 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 23:56:42] | P38_Ecuador_Loja_Y07_X08 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
