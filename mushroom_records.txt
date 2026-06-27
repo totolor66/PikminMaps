@@ -1,4 +1,3 @@
-[2026-06-27 08:24:59] | T001_DubaiU_Y03_X03 | electric_mushroom | 巨大神秘蘑菇 | 25.4041180, 55.4592150 | 0 空位
 [2026-06-27 08:25:19] | T001_DubaiU_Y03_X02 | electric_mushroom | 巨大神秘蘑菇 | 25.4004830, 55.4535240 | 0 空位
 [2026-06-27 08:25:38] | T001_DubaiU_Y03_X01 | water_mushroom | 大水蘑菇 | 25.4044050, 55.4512960 | 5 空位
 [2026-06-27 08:26:28] | T001_DubaiU_Y04_X04 | electric_mushroom | 巨大神秘蘑菇 | 25.3895080, 55.4654150 | 0 空位
@@ -198,3 +197,4 @@
 [2026-06-27 14:21:29] | B04_Tauranga_Y03_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 14:26:03] | B05_Rotorua_Y00_X02 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 14:28:58] | B05_Rotorua_Y02_X08 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 14:35:15] | B06_NewPlymouth_Y01_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
