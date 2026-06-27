@@ -50,3 +50,13 @@
 [2026-06-27 20:56:32] | P12_Peru_Cusco_Y01_X04 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 20:58:41] | P12_Peru_Cusco_Y03_X14 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:01:27] | P12_Peru_Cusco_Y04_X14 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:05:11] | P13_Peru_LimaU_Y01_X11 | crystal_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:07:27] | P13_Peru_LimaU_Y03_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:08:48] | P13_Peru_LimaU_Y04_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:08:54] | P13_Peru_LimaU_Y04_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:09:33] | P13_Peru_LimaU_Y04_X08 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:10:11] | P13_Peru_LimaU_Y05_X09 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:10:56] | P13_Peru_LimaU_Y05_X03 | fire_mushroom | 大火蘑菇 | 
+[2026-06-27 21:11:46] | P13_Peru_LimaU_Y06_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:11:57] | P13_Peru_LimaU_Y06_X04 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:12:03] | P13_Peru_LimaU_Y06_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
