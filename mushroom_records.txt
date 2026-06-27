@@ -79,3 +79,11 @@
 [2026-06-27 21:32:21] | P15_Peru_LimaD_Y04_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:34:37] | P15_Peru_LimaD_Y06_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:35:00] | P15_Peru_LimaD_Y07_X09 | electric_mushroom | 大電蘑菇 | -12.1828820, -76.9915620
+[2026-06-27 21:38:44] | P16_Peru_Juliaca_Y01_X05 | water_mushroom | 大水蘑菇 | -15.4630680, -70.1372170
+[2026-06-27 21:40:40] | P16_Peru_Juliaca_Y03_X09 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:41:24] | P16_Peru_Juliaca_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:41:30] | P16_Peru_Juliaca_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:42:24] | P16_Peru_Juliaca_Y04_X06 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:43:08] | P16_Peru_Juliaca_Y05_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:43:19] | P16_Peru_Juliaca_Y05_X09 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:45:42] | P16_Peru_Juliaca_Y07_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
