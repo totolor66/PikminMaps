@@ -87,3 +87,6 @@
 [2026-06-27 21:43:08] | P16_Peru_Juliaca_Y05_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:43:19] | P16_Peru_Juliaca_Y05_X09 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-27 21:45:42] | P16_Peru_Juliaca_Y07_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:51:30] | P17_Peru_ArequipaU_Y02_X07 | poison_mushroom | 大毒蘑菇 | -16.3149410, -71.6209060
+[2026-06-27 21:52:48] | P17_Peru_ArequipaU_Y03_X15 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-27 21:53:10] | P17_Peru_ArequipaU_Y03_X12 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
