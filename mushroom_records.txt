@@ -153,3 +153,8 @@
 [2026-06-28 23:09:05] | P32_Ecuador_Quito2_Y02_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 23:10:48] | P32_Ecuador_Quito2_Y03_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 23:12:29] | P32_Ecuador_Quito2_Y04_X15 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 23:15:10] | P33_Ecuador_Ambato_Y00_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 23:17:20] | P33_Ecuador_Ambato_Y01_X07 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 23:17:26] | P33_Ecuador_Ambato_Y01_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 23:19:16] | P33_Ecuador_Ambato_Y02_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 23:21:32] | P33_Ecuador_Ambato_Y04_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
