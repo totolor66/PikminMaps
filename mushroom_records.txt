@@ -45,3 +45,9 @@
 [2026-06-28 20:23:42] | P06_Peru_Chiclayo_Y03_X05 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 20:30:05] | P07_Peru_Chimbote_Y02_X03 | fire_mushroom | 大紅色蘑菇 | -9.0664150, -78.5889390 | 戰力:無數字
 [2026-06-28 20:31:34] | P07_Peru_Chimbote_Y03_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:35:41] | P08_Peru_NewChimbote_Y01_X06 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:36:14] | P08_Peru_NewChimbote_Y01_X01 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:36:52] | P08_Peru_NewChimbote_Y02_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:37:04] | P08_Peru_NewChimbote_Y02_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:37:37] | P08_Peru_NewChimbote_Y03_X09 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:38:13] | P08_Peru_NewChimbote_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
