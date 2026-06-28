@@ -25,3 +25,5 @@
 [2026-06-28 19:54:37] | P03_Peru_Piura_Y05_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 19:54:44] | P03_Peru_Piura_Y05_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 19:55:00] | P03_Peru_Piura_Y05_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:56:50] | P04_Peru_Sechura_Y00_X01 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:58:55] | P04_Peru_Sechura_Y03_X00 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
