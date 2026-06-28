@@ -39,3 +39,7 @@
 [2026-06-28 20:13:10] | P05_Peru_Trujillo_Y07_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 20:15:06] | P05_Peru_Trujillo_Y08_X11 | electric_mushroom | 小黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 20:16:18] | P05_Peru_Trujillo_Y09_X12 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:20:05] | P06_Peru_Chiclayo_Y01_X13 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:22:01] | P06_Peru_Chiclayo_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:22:18] | P06_Peru_Chiclayo_Y02_X08 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:23:42] | P06_Peru_Chiclayo_Y03_X05 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
