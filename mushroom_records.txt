@@ -53,3 +53,9 @@
 [2026-06-28 20:38:13] | P08_Peru_NewChimbote_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 20:50:35] | P10_Peru_Ayacucho_Y03_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 20:51:13] | P10_Peru_Ayacucho_Y04_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:56:33] | P11_Peru_Pucallpa_Y02_X10 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:57:37] | P11_Peru_Pucallpa_Y03_X07 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 20:59:38] | P11_Peru_Pucallpa_Y04_X12 | water_mushroom | 大水蘑菇 | -8.3879790, -74.5646420 | 戰力:1638
+[2026-06-28 20:59:52] | P11_Peru_Pucallpa_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 21:00:18] | P11_Peru_Pucallpa_Y05_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 21:02:39] | P11_Peru_Pucallpa_Y06_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
