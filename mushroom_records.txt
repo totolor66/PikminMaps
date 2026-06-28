@@ -1,13 +1,3 @@
-[2026-06-29 02:42:36] | A04_SydneyUR_Y05_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:45:55] | A05_SydneyUC_Y00_X18 | poison_mushroom | 大冰藍蘑菇 | -33.7043180, 151.0786430 | 戰力:無數字
-[2026-06-29 02:46:26] | A05_SydneyUC_Y01_X18 | fire_mushroom | 大火蘑菇 | -33.7209240, 151.0799550 | 戰力:無數字
-[2026-06-29 02:46:34] | A05_SydneyUC_Y01_X18 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:48:12] | A05_SydneyUC_Y01_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:48:34] | A05_SydneyUC_Y02_X01 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:49:14] | A05_SydneyUC_Y02_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:50:19] | A05_SydneyUC_Y02_X18 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:50:25] | A05_SydneyUC_Y02_X18 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 02:53:59] | A05_SydneyUC_Y04_X15 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 02:54:14] | A05_SydneyUC_Y04_X16 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 02:54:30] | A05_SydneyUC_Y04_X18 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 02:58:19] | A06_SydneyUL_Y00_X07 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +188,13 @@
 [2026-06-29 05:33:20] | A31_Auckland_Y05_X03 | fire_mushroom | 大火蘑菇 | -36.8957560, 174.7443990 | 戰力:4636
 [2026-06-29 05:35:48] | A32_Wellington_Y00_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 05:37:04] | A32_Wellington_Y01_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:41:32] | A33_Hamilton_Y00_X07 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:41:44] | A33_Hamilton_Y00_X08 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:45:47] | A33_Hamilton_Y03_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:46:05] | A33_Hamilton_Y03_X10 | fire_mushroom | 大火蘑菇 | -37.7541080, 175.2754230 | 戰力:24724
+[2026-06-29 05:48:32] | A33_Hamilton_Y04_X13 | water_mushroom | 大水晶蘑菇 | -37.7648620, 175.2950980 | 戰力:無數字
+[2026-06-29 05:48:52] | A33_Hamilton_Y04_X14 | electric_mushroom | 大黃色蘑菇 | -37.7652590, 175.2985550 | 戰力:無數字
+[2026-06-29 05:49:32] | A33_Hamilton_Y05_X12 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:49:48] | A33_Hamilton_Y05_X10 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:50:16] | A33_Hamilton_Y05_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:50:27] | A33_Hamilton_Y05_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
