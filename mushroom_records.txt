@@ -180,3 +180,6 @@
 [2026-06-28 23:49:59] | P37_Ecuador_Huaquilas_Y01_X11 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 23:51:35] | P37_Ecuador_Huaquilas_Y02_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 23:52:19] | P37_Ecuador_Huaquilas_Y02_X11 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 00:01:51] | P38_Ecuador_Loja_Y05_X03 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 00:02:08] | P38_Ecuador_Loja_Y05_X02 | poison_mushroom | 大毒蘑菇 | -4.0007080, -79.2348070 | 戰力:無數字
+[2026-06-29 00:03:36] | P38_Ecuador_Loja_Y07_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
