@@ -6,5 +6,10 @@
 [2026-06-28 07:05:13] | A38_Invercargill_Y04_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 07:05:25] | A38_Invercargill_Y04_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 07:05:47] | A38_Invercargill_Y04_X09 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 18:32:51] | P00_Peru_Iquitos_Y05_X02 | electric_mushroom | 大白色蘑菇 | -3.7590970, -73.2706630 | 戰力:354
-[2026-06-28 18:33:53] | P00_Peru_Iquitos_Y06_X07 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 15:09:34] | P00_Peru_Iquitos_Y02_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 15:11:37] | P00_Peru_Iquitos_Y05_X06 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 15:12:27] | P00_Peru_Iquitos_Y06_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:30:26] | P00_Peru_Iquitos_Y03_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:30:37] | P00_Peru_Iquitos_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:32:05] | P00_Peru_Iquitos_Y05_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 19:32:16] | P00_Peru_Iquitos_Y05_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
