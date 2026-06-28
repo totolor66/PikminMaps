@@ -1,19 +1,3 @@
-[2026-06-28 21:43:37] | P15_Peru_LimaD_Y05_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:43:59] | P15_Peru_LimaD_Y05_X02 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:44:43] | P15_Peru_LimaD_Y06_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:45:16] | P15_Peru_LimaD_Y06_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:46:00] | P15_Peru_LimaD_Y07_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:48:38] | P16_Peru_Juliaca_Y01_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:49:38] | P16_Peru_Juliaca_Y02_X00 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:50:55] | P16_Peru_Juliaca_Y03_X10 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:51:22] | P16_Peru_Juliaca_Y03_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:52:02] | P16_Peru_Juliaca_Y03_X00 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 21:58:04] | P17_Peru_ArequipaU_Y00_X06 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 22:02:29] | P17_Peru_ArequipaU_Y03_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 22:02:52] | P17_Peru_ArequipaU_Y03_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 22:03:30] | P17_Peru_ArequipaU_Y03_X08 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 22:05:20] | P17_Peru_ArequipaU_Y04_X10 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-28 22:06:09] | P17_Peru_ArequipaU_Y05_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:06:32] | P17_Peru_ArequipaU_Y05_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:09:15] | P18_Peru_ArequipaD_Y00_X02 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:13:38] | P18_Peru_ArequipaD_Y03_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +182,19 @@
 [2026-06-29 03:03:50] | A06_SydneyUL_Y03_X14 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 03:04:28] | A06_SydneyUL_Y03_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 03:09:10] | A06_SydneyUL_Y04_X17 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:12:22] | A07_SydneyDR_Y00_X04 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:14:03] | A07_SydneyDR_Y01_X15 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:15:26] | A07_SydneyDR_Y01_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:17:21] | A07_SydneyDR_Y02_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:17:49] | A07_SydneyDR_Y02_X15 | electric_mushroom | 大黃色蘑菇 | -33.8817090, 151.2464390 | 戰力:無數字
+[2026-06-29 03:18:31] | A07_SydneyDR_Y03_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:19:05] | A07_SydneyDR_Y03_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:19:54] | A07_SydneyDR_Y03_X02 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:21:31] | A07_SydneyDR_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:21:53] | A07_SydneyDR_Y04_X16 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:22:05] | A07_SydneyDR_Y04_X17 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:22:22] | A07_SydneyDR_Y05_X16 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:22:28] | A07_SydneyDR_Y05_X16 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:22:45] | A07_SydneyDR_Y05_X15 | poison_mushroom | 大毒蘑菇 | -33.9217070, 151.2479270 | 戰力:22452
+[2026-06-29 03:24:00] | A07_SydneyDR_Y05_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 03:24:22] | A07_SydneyDR_Y05_X01 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
