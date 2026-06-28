@@ -1,6 +1,3 @@
-[2026-06-29 03:37:59] | A08_SydneyDL_Y05_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 03:38:27] | A08_SydneyDL_Y05_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 03:38:38] | A08_SydneyDL_Y05_X01 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 03:38:50] | A08_SydneyDL_Y05_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 03:38:56] | A08_SydneyDL_Y05_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 03:40:59] | A09_SydneyDD_Y00_X10 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +195,6 @@
 [2026-06-29 06:32:19] | A37_Christchurch_Y06_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:32:45] | A37_Christchurch_Y06_X07 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:33:13] | A37_Christchurch_Y06_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 06:43:48] | A38_Invercargill_Y03_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 06:45:20] | A38_Invercargill_Y04_X08 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 06:45:43] | A38_Invercargill_Y04_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
