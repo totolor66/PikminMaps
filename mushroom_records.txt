@@ -122,3 +122,6 @@
 [2026-06-28 22:26:13] | P19_Peru_TacnaU_Y06_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:27:13] | P19_Peru_TacnaU_Y07_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:29:11] | P20_Peru_TacnaD_Y01_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 22:35:30] | P21_Peru_Moquegua_Y01_X07 | poison_mushroom | 大毒蘑菇 | tasklist /FI "IMAGENAME eq scrcpy.exe" | 戰力:31173
+[2026-06-28 22:37:27] | P21_Peru_Moquegua_Y03_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 22:37:39] | P21_Peru_Moquegua_Y03_X02 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
