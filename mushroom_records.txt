@@ -121,3 +121,4 @@
 [2026-06-28 22:25:47] | P19_Peru_TacnaU_Y06_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:26:13] | P19_Peru_TacnaU_Y06_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-28 22:27:13] | P19_Peru_TacnaU_Y07_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-28 22:29:11] | P20_Peru_TacnaD_Y01_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
