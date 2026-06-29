@@ -1,9 +1,3 @@
-[2026-06-29 06:21:18] | A37_Christchurch_Y01_X03 | fire_mushroom | 大紅色蘑菇 | -43.4941710, 172.5710290 | 戰力:無數字
-[2026-06-29 06:21:43] | A37_Christchurch_Y01_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:22:10] | A37_Christchurch_Y02_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:22:55] | A37_Christchurch_Y02_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:23:16] | A37_Christchurch_Y02_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:24:18] | A37_Christchurch_Y03_X17 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:24:59] | A37_Christchurch_Y03_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:25:10] | A37_Christchurch_Y03_X11 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:25:55] | A37_Christchurch_Y03_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +192,9 @@
 [2026-06-30 00:59:54] | P41_Ecuador_GuayaquilS_Y02_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 01:00:06] | P41_Ecuador_GuayaquilS_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 01:03:00] | P41_Ecuador_GuayaquilS_Y05_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:08:18] | P15_Peru_LimaD_Y00_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:09:08] | P15_Peru_LimaD_Y01_X09 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:09:30] | P15_Peru_LimaD_Y01_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:10:09] | P15_Peru_LimaD_Y01_X00 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:11:05] | P15_Peru_LimaD_Y02_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:13:16] | P15_Peru_LimaD_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
