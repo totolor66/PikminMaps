@@ -1,6 +1,3 @@
-[2026-06-29 04:16:17] | A11_MelbourneL_Y00_X12 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 04:17:34] | A11_MelbourneL_Y01_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 04:17:50] | A11_MelbourneL_Y01_X08 | crystal_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 04:18:07] | A11_MelbourneL_Y01_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 04:18:30] | A11_MelbourneL_Y01_X03 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 04:18:52] | A11_MelbourneL_Y01_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +195,6 @@
 [2026-06-29 21:14:48] | P10_Peru_Ayacucho_Y04_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 21:15:32] | P10_Peru_Ayacucho_Y05_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 21:15:49] | P10_Peru_Ayacucho_Y05_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 21:23:52] | P11_Peru_Pucallpa_Y04_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 21:24:09] | P11_Peru_Pucallpa_Y05_X12 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 21:26:27] | P11_Peru_Pucallpa_Y06_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
