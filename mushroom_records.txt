@@ -1,6 +1,3 @@
-[2026-06-29 05:45:47] | A33_Hamilton_Y03_X11 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 05:46:05] | A33_Hamilton_Y03_X10 | fire_mushroom | 大火蘑菇 | -37.7541080, 175.2754230 | 戰力:24724
-[2026-06-29 05:48:32] | A33_Hamilton_Y04_X13 | water_mushroom | 大水晶蘑菇 | -37.7648620, 175.2950980 | 戰力:無數字
 [2026-06-29 05:48:52] | A33_Hamilton_Y04_X14 | electric_mushroom | 大黃色蘑菇 | -37.7652590, 175.2985550 | 戰力:無數字
 [2026-06-29 05:49:32] | A33_Hamilton_Y05_X12 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 05:49:48] | A33_Hamilton_Y05_X10 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +195,6 @@
 [2026-06-30 00:07:17] | P36_Ecuador_Machala_Y01_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 00:07:50] | P36_Ecuador_Machala_Y02_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 00:08:07] | P36_Ecuador_Machala_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:19:32] | P38_Ecuador_Loja_Y01_X04 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:23:03] | P38_Ecuador_Loja_Y05_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:25:25] | P38_Ecuador_Loja_Y07_X04 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
