@@ -1,11 +1,3 @@
-[2026-06-29 06:14:02] | A36_NewPlymouth_Y03_X08 | electric_mushroom | 大電蘑菇 | -39.0807420, 174.0760390 | 戰力:無數字
-[2026-06-29 06:14:21] | A36_NewPlymouth_Y03_X06 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:15:00] | A36_NewPlymouth_Y03_X00 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:15:27] | A36_NewPlymouth_Y04_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:15:44] | A36_NewPlymouth_Y04_X05 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:16:28] | A36_NewPlymouth_Y04_X12 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:18:00] | A37_Christchurch_Y00_X04 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 06:20:56] | A37_Christchurch_Y01_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:21:18] | A37_Christchurch_Y01_X03 | fire_mushroom | 大紅色蘑菇 | -43.4941710, 172.5710290 | 戰力:無數字
 [2026-06-29 06:21:43] | A37_Christchurch_Y01_X00 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 06:22:10] | A37_Christchurch_Y02_X03 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
@@ -198,3 +190,11 @@
 [2026-06-30 00:52:47] | P40_Ecuador_GuayaquilC_Y06_X13 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 00:54:08] | P40_Ecuador_GuayaquilC_Y07_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-30 00:54:41] | P40_Ecuador_GuayaquilC_Y07_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:56:26] | P41_Ecuador_GuayaquilS_Y00_X01 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:57:48] | P41_Ecuador_GuayaquilS_Y01_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:58:28] | P41_Ecuador_GuayaquilS_Y01_X03 | electric_mushroom | 大電蘑菇 | -2.2025450, -79.9281530 | 戰力:24389
+[2026-06-30 00:59:20] | P41_Ecuador_GuayaquilS_Y02_X04 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:59:37] | P41_Ecuador_GuayaquilS_Y02_X06 | electric_mushroom | 般黃色蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 00:59:54] | P41_Ecuador_GuayaquilS_Y02_X08 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:00:06] | P41_Ecuador_GuayaquilS_Y02_X09 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-30 01:03:00] | P41_Ecuador_GuayaquilS_Y05_X07 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
