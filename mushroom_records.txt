@@ -1,3 +1,7 @@
+[2026-06-29 04:55:51] | A14_PerthDR_Y01_X13 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 04:59:12] | A14_PerthDR_Y03_X14 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:00:06] | A14_PerthDR_Y03_X05 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
+[2026-06-29 05:00:28] | A14_PerthDR_Y03_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 05:01:02] | A14_PerthDR_Y04_X02 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 05:01:51] | A14_PerthDR_Y04_X10 | poison_mushroom | 般水晶蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 05:02:45] | A14_PerthDR_Y05_X16 | electric_mushroom | 般電蘑菇 | 誤抓蘑菇 跳過
@@ -186,10 +190,6 @@
 [2026-06-29 22:32:35] | P18_Peru_ArequipaD_Y04_X10 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 22:32:46] | P18_Peru_ArequipaD_Y04_X11 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 22:33:03] | P18_Peru_ArequipaD_Y04_X13 | water_mushroom | 般水蘑菇 | 誤抓蘑菇 跳過
-[2026-06-29 22:35:10] | P18_Peru_ArequipaD_Y06_X06 | electric_mushroom | 大黃色蘑菇 | # 🌟 核心修正：將上方點的計算提前到這裡
-    adb_y_up = adb_y - 150 
-    
-    print(f"🎯 鎖定目標: {target['name']} | 中心點: ({adb_x}, {adb_y}) | 上方點: ({adb_x}, {adb_y_up})") | 戰力:無數字
 [2026-06-29 22:36:29] | P18_Peru_ArequipaD_Y07_X08 | electric_mushroom | 巨大神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 22:40:32] | P19_Peru_TacnaU_Y02_X06 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
 [2026-06-29 22:42:33] | P19_Peru_TacnaU_Y04_X03 | electric_mushroom | 般神秘蘑菇 | 誤抓蘑菇 跳過
